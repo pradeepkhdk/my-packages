@@ -5,6 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --configuration production",
+    "build-common-lib": "ng build --configuration production --project=my-library",
+    "build-test-lib": "ng build --configuration production --project=test-library",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

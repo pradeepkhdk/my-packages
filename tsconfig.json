@@ -19,6 +19,10 @@
       "my-library": [
         "dist/my-library/my-library",
         "dist/my-library"
+      ],
+      "test-library": [
+        "dist/test-library/test-library",
+        "dist/test-library"
       ]
     }
   },
